@@ -22,9 +22,9 @@ SVM:
   F1-Score:  0.7792
 
 Neural Network:
-  Accuracy:  0.7776
-  Precision: 0.8415
-  Recall:    0.7776
-  F1-Score:  0.7746
+  Accuracy:  0.7743
+  Precision: 0.8376
+  Recall:    0.7743
+  F1-Score:  0.7712
 
 Best Model: SVM
