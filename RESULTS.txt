@@ -1,0 +1,30 @@
+IDS IMPLEMENTATION - PERFORMANCE RESULTS
+========================================
+
+Dataset: NSL-KDD
+Training samples: 125973
+Testing samples: 22544
+Features: 41
+
+Model Performance:
+------------------
+
+Random Forest:
+  Accuracy:  0.7707
+  Precision: 0.8336
+  Recall:    0.7707
+  F1-Score:  0.7676
+
+SVM:
+  Accuracy:  0.7819
+  Precision: 0.8434
+  Recall:    0.7819
+  F1-Score:  0.7792
+
+Neural Network:
+  Accuracy:  0.7776
+  Precision: 0.8415
+  Recall:    0.7776
+  F1-Score:  0.7746
+
+Best Model: SVM
